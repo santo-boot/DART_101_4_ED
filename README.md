@@ -36,7 +36,7 @@ Las instrucciones de las partes IV y V las tendrás que llevar a cabo siempre qu
 
        git fetch upstream
 
-* Sitúate en la rama master de tu fork:
+* Sitúate en la rama main de tu fork:
 
        git checkout main
 
