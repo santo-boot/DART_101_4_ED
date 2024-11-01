@@ -40,7 +40,7 @@ Las instrucciones de las partes IV y V las tendrás que llevar a cabo siempre qu
 
        git checkout main
 
-* Fusiona los cambios del 'remote' (repositorio original) en tu rama master (repositorio local):
+* Fusiona los cambios del 'remote' (repositorio original) en tu rama main (repositorio local):
 
          git merge upstream/main
 
@@ -56,5 +56,4 @@ En este punto, tienes el repositorio local actualizado. Haz las adiciones necesa
 ### Parte V: Abrir una Pull Request
 * En GitHub, haz una ``Pull Request`` o solicitd de cambios, para que pueda verificar tus ejercicios y aceptarlos en la rama master del repositorio original si todo está bien y no hay conflictos. El origen debe ser el repositorio de tu cuenta de GitHub y, el destino, este repositorio.
 
-Si deseas conocer más sobre ``Pull Request`` te dejo este [recurso](https://www.youtube.com/watch?v=9ZJ-K-zk_Go&t=13088s) y te animo a mirar todo el curso ya que está buenísimo y te va a ayudar a manejar tus proyectos de una manera óptima, mucha suerte aprendiendo! 😄# EELA_DART_101_4TA_ED
-# DART_101_4_ED
+Si deseas conocer más sobre ``Pull Request`` te dejo este [recurso](https://www.youtube.com/watch?v=9ZJ-K-zk_Go&t=13088s) y te animo a mirar todo el curso ya que está buenísimo y te va a ayudar a manejar tus proyectos de una manera óptima, mucha suerte aprendiendo! 😄
