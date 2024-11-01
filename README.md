@@ -38,7 +38,7 @@ Las instrucciones de las partes IV y V las tendrás que llevar a cabo siempre qu
 
 * Sitúate en la rama master de tu fork:
 
-       git checkout master
+       git checkout main
 
 * Fusiona los cambios del 'remote' (repositorio original) en tu rama master (repositorio local):
 
