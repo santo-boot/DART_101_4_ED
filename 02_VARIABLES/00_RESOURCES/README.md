@@ -1,0 +1,6 @@
+Códigos
+https://dartpad.dev/
+https://www.markdownguide.org/cheat-sheet/
+export PATH="$PATH:$HOME/development/flutter/bin"
+export PATH="$PATH:$HOME/.pub-cache/bin"
+export PATH="$PATH:$HOME/development/flutter/.pub-cache/bin"
